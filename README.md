@@ -1,4 +1,3 @@
----
 
 # 🛍️ Product Catalog Application
 
@@ -106,7 +105,7 @@ frontend/
   └── .env
 ```
 
-## License
+
 
 MIT License
 
